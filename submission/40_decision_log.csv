@@ -1,1 +1,5 @@
 id,date,question,decision,rationale,status
+1,2026-09-29,Gan class gi cho xe lam,ThreeWheeler,Luat R04,resolved
+2,2026-09-29,Ego body ve nhu nao,Ve polygon,Luat R07,resolved
+3,2026-09-29,Box nho hon 40px,Bo qua,Luat R01,resolved
+4,2026-09-29,Xe bi lem vien,Hoi lai sếp,Chua ro,escalated

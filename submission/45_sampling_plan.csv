@@ -1,9 +1,9 @@
 camera_id,slice_type,frames,risk,rationale
-front,normal,,TODO,TODO
-front,hard,,TODO,TODO
-rear,normal,,TODO,TODO
-rear,hard,,TODO,TODO
-left,normal,,TODO,TODO
-left,hard,,TODO,TODO
-right,normal,,TODO,TODO
-right,hard,,TODO,TODO
+front,normal,30,thấp,Góc nhìn chuẩn phía trước không bị che khuất
+front,hard,20,cao,Hay bị chói sáng hoặc xe cộ cắt ngang khi tiến
+rear,normal,30,thấp,Góc nhìn chuẩn khi lùi xe vào ô đỗ
+rear,hard,20,cao,Camera lùi dễ bị mờ hoặc thiếu sáng ban đêm
+left,normal,25,thấp,Góc nhìn hông trái tiêu chuẩn
+left,hard,25,trung bình,Đỗ xe không gian hẹp sát vạch hoặc xe bên trái
+right,normal,25,thấp,Góc nhìn hông phải tiêu chuẩn
+right,hard,25,trung bình,Đỗ xe sát mép phải hoặc lề đường hẹp
